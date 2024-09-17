@@ -1,5 +1,5 @@
 import React from 'react';
-import Samarth from '../assets/Samarth.jpg'
+import Samarth from '../assets/Nikhil.jpg'
 
 export default function About() {
   return (
@@ -7,8 +7,8 @@ export default function About() {
       <div>
         <img src={Samarth} alt="profile" className='h-[200px] w-[200px] rounded-full mb-5' />
       </div>
-      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Property Pilot (Sam Estate)</h1>
-      <p className='mb-4 text-slate-700'>Sam Estate is a leading real estate agency that specializes in helping clients buy, sell, 
+      <h1 className='text-3xl font-bold mb-4 text-slate-800'>About Property Pilot (Dharovar Estate)</h1>
+      <p className='mb-4 text-slate-700'>Dharovar Estate is a leading real estate agency that specializes in helping clients buy, sell, 
                                            and rent properties in the most desirable neighborhoods. Our team of experienced agents is 
                                            dedicated to providing exceptional service and making the buying and selling process as smooth as possible.</p>
       <p className='mb-4 text-slate-700'>
